@@ -21,6 +21,10 @@ h1, h2, h3, h4, h5, h6 {
     color: #4c4c4c;
 }
 
+{
+    line-height: normal;
+}
+
 html { height: 100% }
 
 body {
@@ -1565,7 +1569,7 @@ h3#comments {
 
 .services h4{
   font-size: 14px;
-  line-height: 0;
+  line-height: normal;
   text-decoration: underline
 }
 .services:hover .service-icon {
